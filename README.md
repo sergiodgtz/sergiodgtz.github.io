@@ -1,2 +1,2 @@
-# sergiodgtz.github.mx
+# sergiodgtz.github.io
 Student test site
